@@ -32,6 +32,6 @@ body {
 }
 
 .d1 {
-	min-height: 88%;
-	height: 88%;
+	min-height: 88% !important;
+	height: 88% !important;
 }
